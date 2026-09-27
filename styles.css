@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+  form{
+            width:300px;
+            height: 550px;
+            display: flex;
+            flex-direction: column;
+            border: 2px solid black;
+            margin: auto;
+            padding: 10px;
+            gap: 5px;
+            border-radius: 15px;
+        }
+        h1{
+            text-align: center;
+        }
